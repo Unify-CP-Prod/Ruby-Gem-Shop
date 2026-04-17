@@ -1,4 +1,4 @@
-# Gem Shop
+# Gems
 
 ![Gem Shop](./app/assets/images/gem_shop.jpg)
 
